@@ -35,6 +35,7 @@
 21. useRef
 22. useMemo
 23. useCallback
+24. useEffect
 
 ### Styling in React
 24. Inline Styles
@@ -51,7 +52,7 @@
 31. React Testing Library
 
 ### Advanced React Concepts (Optional)
-32. Higher-Order Components (HOCs)
-33. Render Props Pattern
-34. Refs
-35. useImperativeHandle
+32. Higher-Order Components (HOCs) - Advanced technique for reusing component logic.
+33. Render Props Pattern - Technique for sharing code between React components using a prop whose value is a function.
+34. Refs - Provides a way to access DOM nodes or React elements created in the render method.
+35. useImperativeHandle - Customizes the instance value that is exposed when using ref in functional components.
