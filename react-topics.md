@@ -35,7 +35,6 @@
 21. useRef
 22. useMemo
 23. useCallback
-24. useEffect
 
 ### Styling in React
 24. Inline Styles
